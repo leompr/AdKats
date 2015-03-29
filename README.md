@@ -1,2 +1,2 @@
-<h1>AdKats Test Repository</h1>
-<h3>Use files from this branch at your own risk</h3>
+<h1>AdKats 7 Development Repository</h1>
+<h3>This redesign is in progress, and non-functional.</h3>
